@@ -1,4 +1,4 @@
-# Slider list
+# Slider List
 7th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseEffect to set auto slider and to check first and last items in the list, I also used useState to give function to the buttons where you can select the next and previous review that will be render based on the index.
 
 ### 🛠 Tools:
